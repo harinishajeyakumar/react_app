@@ -6,7 +6,7 @@ function TestComp(){
     return(
         <div>
             <TestClassComp></TestClassComp>
-            <h1>This is a test functional component</h1>
+            <h1>3rd year,ECE</h1>
         </div>
     )
 }

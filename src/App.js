@@ -5,7 +5,7 @@ import TestClassComp from './classComponents/functionalComponents/testClassCompo
 function App() {
   return (
     <div className="App">
-      <TestClassComp></TestClassComp>
+    
       <header className="App-header">
       <TestComp></TestComp>
         <img src={logo} className="App-logo" alt="logo" />
