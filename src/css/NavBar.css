@@ -1,0 +1,9 @@
+ol{
+    display : flex;
+    justify-content:space-evenly;
+    background-color: rgb(96, 184, 213);
+    padding :20px;
+    list-style-type: none;
+    margin :0%
+
+}
