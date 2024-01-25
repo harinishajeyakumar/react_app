@@ -10,6 +10,7 @@ import About from './classComponents/functionalComponents/About';
 import Contact from './classComponents/functionalComponents/contact';
 import Login from './classComponents/functionalComponents/Login';
 import Home from './classComponents/functionalComponents/Home';
+import Footer from './classComponents/functionalComponents/footer';
 function App() {
   return (
     <div className="App">
@@ -43,8 +44,13 @@ function App() {
         </a> */}
         
       {/* </header> */}
+      
+      <Footer />
+      
     </div>
+    
   );
+  
 }
 
 export default App;

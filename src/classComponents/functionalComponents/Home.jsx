@@ -1,6 +1,6 @@
 const Home =() =>{
     return(
-        <div>
+        <div style={{ color: 'black',textAlign:'center' }}>
             <h1>Home page</h1>
         </div>
     )
