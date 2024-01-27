@@ -7,3 +7,29 @@ ol{
     margin :0%
 
 }
+form{
+    width: 40%;
+    
+    margin: 10%;
+    
+    box-shadow:10px 10px 10px 10px rgb(60, 158, 163);
+    padding: 30px;
+    
+   
+    }
+    body{
+    background-color: rgb(165, 215, 224);
+    }
+    .input
+    {
+    width: 50%;
+    float: right;
+    margin-right: 6%;
+    }
+    p{
+    margin-left: 6%;
+    }
+    .submit
+    {
+    margin-left: 7%;
+    }
